@@ -36,7 +36,7 @@ if uploaded_file is not None:
     system_prompt = "Você é um ótimo gerente de projetos com õtimas capacidades de gerar atas de reunião."
     user_prompt = f"""em redação de nível especializado, resuma as notas da reunião em um único parágrafo.
     Em seguida, esceva ua lista de cada um de seus pontos-chaves tratados na reunião.
-    Por fim, liste as próxias etapas ou itens de ação sugeridos pelos palestrante, se houver.
+    Por fim, liste as próximas etapas ou itens de ação sugeridos pelos palestrante, se houver.
     O texto transcrito da reunião segue abaixo:
     {transcricao}"""
 
