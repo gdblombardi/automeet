@@ -1,0 +1,4 @@
+moviepy
+assemblyai
+openai
+streamlit
